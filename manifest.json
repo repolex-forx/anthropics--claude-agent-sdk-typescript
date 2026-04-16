@@ -1,0 +1,29 @@
+{
+  "manifest_version": "1.0",
+  "org": "anthropics",
+  "repo": "claude-agent-sdk-typescript",
+  "versions": [
+    {
+      "commit": "943af1a4eaf66649b7809d4677e2ef482467879d",
+      "parsed_at": "2026-04-16T03:14:41.783675+00:00",
+      "tag": "v0.2.97",
+      "filetree": "filetree/943af1a4eaf66649b7809d4677e2ef482467879d.nq.gz",
+      "blobs": [
+        "blob/a670c4b2b8256f07312692167ccc97153da451f6.nq.gz",
+        "blob/584bc7ddb3a39e0cb1a83714caa91de1436c7d5f.nq.gz",
+        "blob/645a5d67c6d1e16437bec850dad5bd3b6c81f77c.nq.gz",
+        "blob/a151b03ef469182249bdd057bb8b5d8640c94475.nq.gz",
+        "blob/fa0968cf5c3f7cf5882e21cc843c2f44ebedffdc.nq.gz",
+        "blob/675dd939c3fb327f8eb2ab73d4d56e01ed0f0daa.nq.gz",
+        "blob/06c15c847b2795e7a05fde75b7b1b846f026a39e.nq.gz",
+        "blob/875320a971c8cdb7d89af55d20c5bee162d46207.nq.gz",
+        "blob/a25170f66b8aa2fd1e72ece6172c5a3cc11e1bc8.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
